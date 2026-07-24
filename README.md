@@ -1,1 +1,1 @@
-Sources for [vanilla Russian Terraria translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3320505289) based on [Project tRU](https://steamcommunity.com/sharedfiles/filedetails/?id=2831360228).
+Migrated to [Codeberg](https://codeberg.org/botantony/project-tru-vanilla)
